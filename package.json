@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/readium/web/issues"
   },
-  "homepage": "https://github.com/readium/web"
+  "homepage": "https://github.com/readium/web",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^18.1.0",
+    "@rollup/plugin-node-resolve": "^13.0.0",
+    "@rollup/plugin-typescript": "^8.2.1",
+    "babel": "^6.23.0",
+    "rollup": "^2.47.0"
+  }
 }
